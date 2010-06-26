@@ -1,0 +1,4 @@
+recursive-include pycare/public *
+include pycare/public/favicon.ico
+recursive-include pycare/i18n *
+recursive-include pycare/templates *
